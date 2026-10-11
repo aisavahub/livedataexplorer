@@ -2,7 +2,7 @@
 
 Search any country and see its flag, capital and population, using live data from the REST Countries API.
 
-**Live demo:** https://tourmaline-crumble-270cd6.netlify.app
+**Live demo:** https://country-explorer-aisava.netlify.app
 
 ## Features
 - Fetches real data with `fetch` and `async/await`
